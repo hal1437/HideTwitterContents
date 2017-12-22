@@ -10,7 +10,7 @@
 		//Twitter読み込み時
 		{
 			"matches": ["https://twitter.com/*"],
-			"js": ["hide-like.js"]
+			"js"     : ["jquery.min.js","hide-like.js"]
 		}
 	]
 }
